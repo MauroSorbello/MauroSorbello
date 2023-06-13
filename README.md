@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauroSorbello
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning Python and front end (JavaScript).
+- 🌱 I’m currently studying Computer Science at Uncuyo.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sorbello.mau@gmail.com
 
